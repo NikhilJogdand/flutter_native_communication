@@ -1,6 +1,6 @@
 # native_code_app
 
-A new Flutter application.
+Flutter app showing communication between native Android and Flutter
 
 ## Getting Started
 
